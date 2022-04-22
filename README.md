@@ -1,2 +1,1 @@
-# Jushua
-bootstrap
+TinDog Starting Files
